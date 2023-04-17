@@ -11,7 +11,7 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 <hr> 
 
-**Languages and Tools:**
+## Languages and Tools:
 
 <p align="center">
 
