@@ -5,11 +5,13 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 <hr> 
 
-  <h1 align="center" > TOOLS</h1>
+  
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Michelk21&show_icons=true&theme=tokyonight" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelk21&layout=compact" />
+
+<h2 align="center"> TOOLS</h1>
 
 <img align="left" alt='HTML' src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
 
@@ -20,6 +22,8 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 <img align="left" alt='REACT' src="https://camo.githubusercontent.com/82aa0872684974ec6a76b7ca4b8ee1e4c3adcc3a1ad3c5ec295ca6c8046148cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333030623063342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" />
 
 <img align="left" alt='REACT NATIVE' src="https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" />
+
+<br/>
 
 <img align="left" alt='NODE' src="https://camo.githubusercontent.com/0ec502bf2b38292c5165306be285de999f3863d1c87032b478108caeb03c021c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64655f6a732d2532333333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" />
 <br>
@@ -34,7 +38,7 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 <hr> 
 
- <h1> REACH ME ON </h1>
+<h2 align="center" > REACH ME ON </h1>
 
 
 
