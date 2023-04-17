@@ -25,13 +25,15 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## What I am learning <img style="vertical-align: middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzMzMzZjRiYTQ5MWIyY2I2MjQxMmFkNGE2MmUxNDg1Y2E0ZTVjNyZjdD1z/l4FGIO2vCfJkakBtC/giphy.gif" width="30px">
+<hr> 
+
+## What I am continuing learning <img style="vertical-align: middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzMzMzZjRiYTQ5MWIyY2I2MjQxMmFkNGE2MmUxNDg1Y2E0ZTVjNyZjdD1z/l4FGIO2vCfJkakBtC/giphy.gif" width="30px">
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C04119?style=for-the-badge&logo=Jest&logoColor=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelk21&theme=radical&layout=compact)
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
+
 
 <hr> 
 
