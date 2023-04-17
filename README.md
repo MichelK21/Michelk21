@@ -35,9 +35,9 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 <hr> 
 
-<h2> A little bit more  </h2>
+<h2> Have a look on my repos </h2>
 
-![About Me](https://raw.githubusercontent.com/Michel-K/Michel-K/master/bio.gif)
+
 
 
 
