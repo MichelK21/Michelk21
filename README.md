@@ -6,7 +6,7 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Front End Web developer
+⭐️⭐️ Full Stack Web developer ⭐️⭐️
 
 
 <hr> 
@@ -27,6 +27,9 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C04119?style=for-the-badge&logo=Jest&logoColor=white)
+
+<hr> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelk21&theme=radical&layout=compact)
 
 
