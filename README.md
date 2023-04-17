@@ -3,7 +3,8 @@
 I'm Michel from Lyon, France
 I'm a Full Stack Developper with a background in front-end and back-end programming, I'm capable to build a website or an mobile app from the conception to the deployment. I really enjoy learning languages and frameworks like React and React Native. 
 
-<hr> #TOOLS ------------------------------------------------------
+<hr> 
+#TOOLS 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Michelk21&show_icons=true&theme=tokyonight" />
 
@@ -30,8 +31,8 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 <img align="left" alt='VERCEL' src="https://camo.githubusercontent.com/2fae549118710fd8284be62292b9e9a6cdd561cb50d46f35938b08dc3fc2c4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" />
 
 
-<hr> # REACH ME ON -------------------------------------------------------
-
+<hr> 
+# REACH ME ON
 
 
 
