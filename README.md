@@ -5,7 +5,7 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 <hr> 
 
-  <h1 align="center" > h1 TOOLS</h1>
+  <h1 align="center" > TOOLS</h1>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Michelk21&show_icons=true&theme=tokyonight" />
 
@@ -33,7 +33,8 @@ I'm a Full Stack Developper with a background in front-end and back-end programm
 
 
 <hr> 
-# REACH ME ON
+
+ <h1> REACH ME ON </h1>
 
 
 
