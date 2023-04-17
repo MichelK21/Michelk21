@@ -4,6 +4,7 @@ I'm Michel from Lyon, France
 I'm a Full Stack Developper with a background in front-end and back-end programming, I'm capable to build a website or an mobile app from the conception to the deployment. I really enjoy learning languages and frameworks like React and React Native. 
 
 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Front End Web developer
 
 <hr> 
 
